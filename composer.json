@@ -1,0 +1,17 @@
+{
+    "name": "heyimleaf/composer-php",
+    "description": "Composer - Estrutura inicial",
+    "authors": [
+        {
+            "name": "heyimleaf",
+            "email": "luiz@heyimleaf.online"
+        }
+    ],
+    "require": {
+		"php": ">=5.3.3",
+        "phpoffice/phpword": "^0.17.0"
+    },
+    "require-dev":{
+    	"phpunit/phpunit": "^4.3"
+    }
+}
